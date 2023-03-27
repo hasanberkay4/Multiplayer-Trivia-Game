@@ -8,7 +8,7 @@
 - Mustafa Kepenek
 
 ## How to Run
-Please give it a try :), just download the client and server side (small files, do not worry). All you need to do is open a server and multiple clients input reasonable port and ip values and voila you should be able to interact with GUI.  
+Please give it a try :), just download the client and server side (small files, do not worry). All you need to do is open a server and multiple clients, input reasonable port and ip values and voila you should be able to interact with GUI.  
 
 ## Project Summary
 This is a simple quiz game to be played by connected players. The application consşsts of two seperate modules: a server, and a client. The players will be able to enroll in an open quiz game by connecting to the server or connect and wait until ongoing session ends. 
