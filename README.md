@@ -1,5 +1,5 @@
 # QUIZ GAME
-## Sabanci University 2022-2023 Fall Term CS408 Computer Networks Term Project
+## CS408 Computer Networks Term Project
 
 ### Group Members
 - Aslıhan Okur
